@@ -1,8 +1,4 @@
-Kali Linux Lab Setup
-SkillVirtualBoxKali LinuxAuthor
-
-Overview
-This project documents the installation and setup of Kali Linux using Oracle VirtualBox.
+<img width="4032" height="1244" alt="image" src="https://github.com/user-attachments/assets/9c08134c-68f0-43da-a927-adbe85a25d76" />
 
 The purpose of this lab is to create a simple environment for learning Linux and basic cybersecurity concepts.
 
