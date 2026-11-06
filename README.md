@@ -1,7 +1,12 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Lab-red)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-blue)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Linux-success)
-![Network](https://img.shields.io/badge/Network-Lab-orange)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Learning-blue)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-green)
+![Networking](https://img.shields.io/badge/Networking-Basics-orange)
+![Linux](https://img.shields.io/badge/Linux-Kali-yellow)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+![Project](https://img.shields.io/badge/Project-Week%201-purple)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Author](https://img.shields.io/badge/Author-Daniel%20Peter-blueviolet)
 
 # Kali Linux Lab Setup
 
