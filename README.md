@@ -1,6 +1,7 @@
-<img width="4032" height="206" alt="image" src="https://github.com/user-attachments/assets/0ae59cbb-1f20-4a87-b4f1-65d9f1031515" />
-<img width="4032" height="206" alt="image" src="https://github.com/user-attachments/assets/9a194eb0-43e8-49ef-92b1-cbfe376924b0" />
-<img width="4032" height="206" alt="image" src="https://github.com/user-attachments/assets/946a9cbe-2b16-4dec-8e99-d562296273ef" />
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Lab-red)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Lab-blue)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Linux-success)
+![Network](https://img.shields.io/badge/Network-Lab-orange)
 
 # Kali Linux Lab Setup
 
